@@ -2,5 +2,5 @@
 	path = RADAR
 	url = https://github.com/nxtAIM/RADAR
 [submodule "sys100"]
-    path = sys100
-    url = https://github.geo.conti.de/uidn9134/sys100
+	path = sys100
+	url = https://github.geo.conti.de/uidn9134/sys100
